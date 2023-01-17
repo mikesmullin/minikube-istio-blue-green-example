@@ -1,0 +1,4 @@
+/istio-1.16.1/
+*.log
+*.pcap
+*.zip
